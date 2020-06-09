@@ -1,2 +1,3 @@
-# GEMP_CODES
-This repo contains all codes I made for GEMP - Grupo de Estudos de Maratona de Programação (Programming Marathons Study Group)
+# Programming Challenges
+
+Here I will upload code from programming challenges I take, such as (URI Online)[www.urionlinejudge.com] and (HackerRank)[www.hackerrank.com/].
